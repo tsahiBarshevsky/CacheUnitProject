@@ -1,0 +1,5 @@
+{"time":"17:23:07","currentUsers":19,"maxUsers":34,"avarageDatamodelID":5.0,"userID":[{"userId":"03e3d4f3-2810-46e8-ab63-e5f6d7237dfa","Requests":"97d1a488-c0a4-488e-aa9f-0801410faeff"}]}
+{"time":"20:00:29","currentUsers":19,"maxUsers":34,"avarageDatamodelID":5.0,"userID":[{"userId":"e15e7a87-e16a-4d38-bc96-a3536a85c874","Requests":"8337c9e9-eb50-41ef-a96d-b822adfa5a2c"}]}
+{"time":"20:00:39","currentUsers":19,"maxUsers":34,"avarageDatamodelID":5.0,"userID":[{"userId":"1dd52fc0-aa86-4adc-ae82-3460bb6aacc0","Requests":"7c7b1b81-0731-4733-807d-c40e71e80681"}]}
+{"time":"20:01:09","currentUsers":19,"maxUsers":34,"avarageDatamodelID":5.0,"userID":[{"userId":"7d126396-2d36-47f0-9377-dc85d7f0a219","Requests":"e91e3dec-3606-423e-bb7e-9d8225418126"}]}
+{"time":"20:02:02","currentUsers":19,"maxUsers":34,"avarageDatamodelID":5.0,"userID":[{"userId":"8ab0e50f-e3b8-4b75-b6de-56331d725609","Requests":"ade0179b-428d-44cb-9d20-0fda74716618"}]}

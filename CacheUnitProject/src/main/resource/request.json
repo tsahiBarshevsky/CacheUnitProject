@@ -1,0 +1,12 @@
+{"headers":{"action":"UPDATE", "sessionId": "9afe7fa6-2033-45fa-b6ab-9945e25cf1b8_1527695646573"},"body":[{"dataModelId":111111, "content":"Some String Data"}]}
+
+{"headers":{"action":"GET", "sessionId": "5ca6694d-f5ce-4903-a311-1b0b8bcb17b3_1527530051816"},"body":[{"dataModelId":111111,"content":null},{"dataModelId":222222,"content":null}]}
+
+{ "headers":{"action":"DELETE", "sessionId": "5ca6694d-f5ce-4903-a311-1b0b8bcb17b3_1527530051816"},"body":[{"dataModelId":33333,"content":null},{"dataModelId":222222,"content":null}]}
+
+
+
+
+{"headers":{"action":"LOGIN","username":"kostya","password":"310765821"},"body":[]}
+
+{"headers": {"action":"GET", "sessionId": "e82346bb-ea57-4b03-8251-2aad50387e77_1527695490582"},"body":[{"dataModelId":111111,"content":"I"},{"dataModelId":222222,"content":"Love"},{"dataModelId":333333,"content":"Java"}]}
